@@ -1,3 +1,2 @@
 #!/bin/bash
-cd ..
-cp -u -r ./working_directory/*.html ./parent_directory/
+cp .. -u -r ./working_directory/*.html ./parent_directory/
